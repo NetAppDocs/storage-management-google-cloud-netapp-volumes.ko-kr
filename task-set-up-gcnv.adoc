@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: task-set-up-gcnv.html 
 keywords: setup, set up, api, service account, requirements, permissions, google cloud netapp volumes, gcnv, bluexp. netapp console 
-summary: NetApp 콘솔은 Google Cloud NetApp Volumes API에 액세스해야 하며 Google Cloud 서비스 계정을 통해 적절한 권한이 필요합니다. 
+summary: NetApp Console Google Cloud NetApp Volumes API에 액세스해야 하며 Google Cloud 서비스 계정을 통해 적절한 권한이 필요합니다. 
 ---
 = Google Cloud NetApp Volumes 설정
 :hardbreaks:
@@ -14,13 +14,13 @@ summary: NetApp 콘솔은 Google Cloud NetApp Volumes API에 액세스해야 하
 
 
 [role="lead"]
-NetApp 콘솔에는 Google Cloud 서비스 계정을 통한 올바른 권한이 필요합니다.
+NetApp Console Google Cloud 서비스 계정을 통한 올바른 권한이 필요합니다.
 
 
 
 == 서비스 계정 설정
 
-NetApp 콘솔이 Google Cloud 프로젝트에 액세스할 수 있도록 다음 작업을 완료하세요.
+NetApp Console Google Cloud 프로젝트에 액세스할 수 있도록 다음 작업을 완료하세요.
 
 * 아직 서비스 계정이 없으면 새 계정을 만드세요.
 * 프로젝트에 서비스 계정 멤버를 추가하고 특정 역할(권한)을 할당합니다.

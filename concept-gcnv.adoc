@@ -32,9 +32,9 @@ NetApp Volumes는 온프레미스 스토리지의 성능과 기능을 유지하�
 
 == 비용
 
-Google Cloud NetApp Volumes 에서 생성된 볼륨은 NetApp 콘솔을 통해서가 아니라 서비스 구독을 통해 요금이 청구됩니다.
+Google Cloud NetApp Volumes 에서 생성된 볼륨은 NetApp Console 통해서가 아니라 서비스 구독에 따라 요금이 청구됩니다.
 
-NetApp 콘솔에서 Google Cloud NetApp Volumes 지역이나 볼륨을 검색하는 데는 비용이 청구되지 않습니다.
+NetApp Console 에서 Google Cloud NetApp Volumes 지역이나 볼륨을 검색하는 데는 비용이 청구되지 않습니다.
 
 
 
@@ -57,5 +57,5 @@ Google Cloud NetApp Volumes 에 대한 일반적인 질문이 있으시면 NetAp
 == 관련 링크
 
 * https://cloud.google.com/netapp/volumes/docs/discover/overview["Google Cloud NetApp Volumes 문서"^]
-* https://docs.netapp.com/us-en/data-services-copy-sync/index.html["NetApp 콘솔 복사 및 동기화 설명서"^]
+* https://docs.netapp.com/us-en/data-services-copy-sync/index.html["NetApp Console 복사 및 동기화 설명서"^]
 

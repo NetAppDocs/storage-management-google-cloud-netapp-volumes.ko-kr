@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: task-create-working-env.html 
 keywords: google cloud netapp volumes, google cloud, netapp cloud volumes, create netapp cloud volumes, discover netapp cloud volumes service for gcnv, cloud volumes service subscription, discover cloud volumes service subscription, discover region, allowed clients, netapp console 
-summary: NetApp 콘솔에서 Google Cloud 시스템용 Netapp Volumes를 추가하여 볼륨을 보고 관리합니다. 
+summary: NetApp Console 에서 Google Cloud 시스템용 Netapp Volumes를 추가하여 볼륨을 보고 관리합니다. 
 ---
 = Google Cloud NetApp Volumes 시스템 추가
 :hardbreaks:
@@ -14,7 +14,7 @@ summary: NetApp 콘솔에서 Google Cloud 시스템용 Netapp Volumes를 추가�
 
 
 [role="lead"]
-서비스 계정을 설정한 후 NetApp 콘솔에 Google Cloud NetApp Volumes 시스템을 추가하면 Google Cloud NetApp Volumes 인스턴스를 볼 수 있습니다.
+서비스 계정을 설정한 후 NetApp Console 에 Google Cloud NetApp Volumes 시스템을 추가하면 Google Cloud NetApp Volumes 인스턴스를 볼 수 있습니다.
 
 이 구독에 대한 클라우드 볼륨이 시스템에 표시됩니다.
 
@@ -29,7 +29,7 @@ NOTE: 여러 Google Cloud 프로젝트에 구독과 볼륨이 있는 경우 각 
 
 
 .단계
-. NetApp 콘솔 메뉴에서 *스토리지*를 선택한 다음 *관리*를 선택합니다.
+. NetApp Console 메뉴에서 *스토리지*를 선택한 다음 *관리*를 선택합니다.
 . 시스템 페이지에서 *시스템 추가*를 선택하고 *Google Cloud Platform*을 선택합니다.
 . * Google Cloud NetApp Volumes* 옆에 있는 *검색*을 선택합니다.
 . NetApp Volumes 구독에 대한 정보를 제공하세요.
