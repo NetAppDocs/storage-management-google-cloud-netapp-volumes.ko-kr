@@ -1,0 +1,25 @@
+---
+sidebar: sidebar 
+permalink: task-quick-start.html 
+keywords: set up google cloud netapp volumes, quick start 
+summary: Google Cloud를 설정한 다음 시스템을 만들어 Google Cloud NetApp Volumes 시작하세요. 
+---
+= 시작하기 워크플로
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Google Cloud를 설정한 다음 시스템을 만들어 Google Cloud NetApp Volumes 시작하세요.
+
+.image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-1.png["하나"] link:task-set-up-gcnv.html["Google Cloud NetApp Volumes 설정"]
+[role="quick-margin-para"]
+Google에서 서비스 계정을 만듭니다.
+
+.image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-2.png["둘"] link:task-create-working-env.html["시스템 추가"]
+[role="quick-margin-para"]
+NetApp 콘솔에서 *시스템 추가*를 클릭한 다음 *Google Cloud Platform*을 클릭하고 * Google Cloud NetApp Volumes*를 클릭한 다음 *검색*을 클릭합니다.  서비스 계정과 Google Cloud 프로젝트에 대한 세부 정보를 제공하세요.

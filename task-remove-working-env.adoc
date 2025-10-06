@@ -1,0 +1,25 @@
+---
+sidebar: sidebar 
+permalink: task-remove-working-env.html 
+keywords: remove working environment, delete working environment, remove system, delete system, remove google cloud netapp volumes, remove, delete 
+summary: NetApp 콘솔에서 Google Cloud NetApp Volumes for Google Cloud 구독과 모든 기존 볼륨을 제거할 수 있습니다.  이 작업을 수행하면 NetApp 콘솔에서 Google Cloud NetApp Volumes 제거됩니다.  Google Cloud NetApp Volumes 계정이나 볼륨은 삭제되지 않습니다.  언제든지 NetApp 콘솔에 Google Cloud NetApp Volumes 다시 추가할 수 있습니다. 
+---
+= NetApp 콘솔에서 Google Cloud NetApp Volumes 제거
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+NetApp 콘솔에서 Google Cloud NetApp Volumes 구독과 모든 기존 볼륨을 제거할 수 있습니다.  볼륨은 삭제되지 않고 NetApp 콘솔 내의 모든 프로젝트에서 제거되며 나중에 다시 검색할 수 있습니다.
+
+
+TIP: NetApp 콘솔에서 Google Cloud NetApp Volumes 삭제할 수 없습니다.  Google Cloud Console을 사용하여 이 작업을 수행하세요.
+
+.단계
+. 시스템을 엽니다.
+. 클릭image:screenshot_gallery_options.gif["세 개의 점이 있는 아이콘입니다."] 페이지 상단의 버튼을 클릭하고 *제거*를 클릭하세요.
+
