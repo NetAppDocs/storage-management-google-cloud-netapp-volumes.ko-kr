@@ -21,9 +21,9 @@ indexpage:
       url: task-manage-volumes.html
   - title: 블로그 및 커뮤니티
     links:
+    - title: NetApp Console
+      url: https://www.netapp.com/console
+    - title: NetApp Data Services
+      url: https://www.netapp.com/data-services/
     - title: NetApp 커뮤니티
-      url: https://community.netapp.com/t5/Cloud-Data-Services/ct-p/CDS
-    - title: NetApp Console 블로그
-      url: https://cloud.netapp.com/blog
-    - title: 클라우드 웨비나
-      url: https://cloud.netapp.com/events
+      url: https://community.netapp.com/
