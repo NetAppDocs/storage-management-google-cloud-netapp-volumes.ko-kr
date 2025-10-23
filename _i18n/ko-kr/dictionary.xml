@@ -75,8 +75,6 @@
   <block id="98061d4b41ea7e9a2f4ca7bbd84f29b8" category="list-text">Google Cloud 프로젝트 이름을 선택하세요.</block>
   <block id="f3ca406bfb989e28376bbf8a5b5484a0" category="list-text">시스템을 만들려는 지역을 선택하세요.  해당 지역은 Google Cloud NetApp Volumes 에 대해 지원되는 지역 중 하나여야 합니다.</block>
   <block id="6717014f0e48b7ab08c9846925b42c93" category="list-text">*발견*을 선택하세요.</block>
-  <block id="4f89df11c9b6b2ee89c887a99d93c72b" category="inline-image-macro">Google Cloud NetApp Volumes 구독에 대한 자격 증명을 추가하는 스크린샷입니다.</block>
-  <block id="d7439065551300ab23be3871e7bbaff4" category="paragraph"><block ref="d7439065551300ab23be3871e7bbaff4" category="inline-image-macro-rx" type="image"></block></block>
   <block id="8eea62084ca7e541d918e823422bd82e" category="paragraph-title">결과</block>
   <block id="cc10d5a46ec06569ffd9f26841caf349" category="paragraph">콘솔에는 Google Cloud NetApp Volumes 시스템이 표시됩니다.</block>
   <block id="72e98fedf2831ff5588e49fd708c44cd" category="inline-image-macro">Google Cloud NetApp Volumes Service 시스템의 스크린샷입니다.</block>
@@ -307,7 +305,6 @@
   <block id="40b96cc305f26bed96812c2920065f5d" category="sidebar">Google Cloud 설정</block>
   <block id="f6c5aff43e91755ba26b1cc527f1f13e" category="sidebar">Google Cloud NetApp Volumes 제거</block>
   <block id="0adc03eac86772ad2c75c8f140be417e" category="sidebar">지식과 지원</block>
-  <block id="e9f08d0e191bafa455f6b22b7db9fb1c" category="admonition">Google Cloud NetApp Volumes 작업을 시작하려면 적절한 권한과 역할이 할당되어 있어야 합니다.  필요한 NetApp Console 역할은 조직 관리자, 폴더 또는 프로젝트 관리자, Google Cloud NetApp Volumes 관리자 역할입니다.<block ref="8d054a08e0e901ba9c326f172eb3627b" category="inline-link-rx"></block> .</block>
   <block id="4aa58a21c5f509f1480d288c069c6836" category="paragraph">*필수 NetApp Console 역할* 조직 관리자, 폴더 또는 프로젝트 관리자, 또는 Google Cloud NetApp Volumes 관리자 역할.<block ref="8d054a08e0e901ba9c326f172eb3627b" category="inline-link-rx"></block> .</block>
   <block id="061e2fc87acc098c8f7a940bbb44fb2a" category="paragraph">NetApp Console Google Cloud 프로젝트에 액세스할 수 있도록 다음 작업을 완료하세요.</block>
   <block id="913de1bf08a6316fa527cd3eea7e91ef" category="list-text">공유 프로젝트에서 IAM 역할을 부여합니다.</block>
@@ -327,4 +324,7 @@
   <block id="46e1e93f6914b7f839eb907c33be43d8" category="list-text">새로운 주체 필드에 서비스 계정의 이메일 주소를 입력합니다.</block>
   <block id="fb913d100c319ea641fe10be8ad12e03" category="list-text">역할 선택 드롭다운에서 Google Cloud NetApp Volumes 관리자 역할을 선택합니다.</block>
   <block id="cc58d3a9b2264c4fd8cb1d3f61b90bdc" category="sidebar">NetApp Data Services</block>
+  <block id="ae46228bf9fe5984c921b22fe508c260" category="admonition">Google Cloud NetApp Volumes 작업을 시작하려면 적절한 권한과 Google Cloud NetApp Volumes 관리자 또는 Google Cloud NetApp 뷰어 역할이 할당되어 있어야 합니다.<block ref="8d054a08e0e901ba9c326f172eb3627b" category="inline-link-rx"></block>.</block>
+  <block id="1082b67e395cc89d61a139c7ce68374f" category="inline-image-macro">Google Cloud NetApp Volumes 역할의 스크린샷입니다.</block>
+  <block id="5e1fff1994471918bffba58a3b5795c0" category="paragraph">+ <block ref="c1718ab208b6eab475574a990a36a0b8" category="inline-image-macro-rx" type="image"></block></block>
 </blocks>
