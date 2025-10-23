@@ -21,7 +21,7 @@ NetApp Volumes는 온프레미스 스토리지의 성능과 기능을 유지하�
 
 NOTE: Google Cloud NetApp Volumes 작업을 시작하려면 적절한 권한과 Google Cloud NetApp Volumes 관리자 또는 Google Cloud NetApp 뷰어 역할이 할당되어 있어야 합니다. https://docs.netapp.com/us-en/console-setup-admin/reference-iam-predefined-roles.html["모든 서비스에 대한 NetApp Console 액세스 역할에 대해 알아보세요."^].
 
-+ image:role_gcnv.png["Google Cloud NetApp Volumes 역할의 스크린샷입니다."]
+image:role_gcnv.png["Google Cloud NetApp Volumes 역할의 스크린샷입니다."]
 
 
 
