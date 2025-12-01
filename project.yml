@@ -24,15 +24,17 @@ sidebar:
       url: "/concept-gcnv.html"
     - title: 시작하기 워크플로
       url: "/task-quick-start.html"
-    - title: Google Cloud 설정
+    - title: Google Cloud NetApp Volumes 설정
       url: "/task-set-up-gcnv.html"
+    - title: Google Cloud NetApp Volumes 역할 할당
+      url: "/task-add-roles.html"
     - title: 시스템 추가
       url: "/task-create-working-env.html"
   - title: Google Cloud NetApp Volumes 사용
     entries:
     - title: 볼륨 관리
       url: "/task-manage-volumes.html"
-    - title: Google Cloud NetApp Volumes 제거
+    - title: 볼륨 제거
       url: "/task-remove-working-env.html"
   - title: 지식과 지원
     entries:

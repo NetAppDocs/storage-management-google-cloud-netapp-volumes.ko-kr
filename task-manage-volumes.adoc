@@ -16,7 +16,7 @@ summary: 시스템을 설정한 후 Google Cloud NetApp 볼륨을 볼 수 있습
 [role="lead"]
 기존 볼륨과 볼륨에서 수행한 모든 작업을 볼 수 있습니다.
 
-*필수 NetApp Console 역할* 조직 관리자, 폴더 또는 프로젝트 관리자, 또는 Google Cloud NetApp Volumes 관리자 역할. https://docs.netapp.com/us-en/console-setup-admin/reference-iam-predefined-roles.html["모든 서비스에 대한 NetApp Console 액세스 역할에 대해 알아보세요."^] .
+*필수 NetApp Console 역할* Google Cloud NetApp Volumes 관리자 또는 Google Cloud NetApp Volumes 뷰어 역할. https://docs.netapp.com/us-en/console-setup-admin/reference-iam-predefined-roles.html["모든 서비스에 대한 NetApp Console 액세스 역할에 대해 알아보세요."^] .
 
 
 

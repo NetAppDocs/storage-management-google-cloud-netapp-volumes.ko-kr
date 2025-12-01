@@ -1,0 +1,11 @@
+= Google Cloud Platform 자격 증명 변경
+:allow-uri-read: 
+
+
+
+
+=== Google Cloud Platform 자격 증명 변경
+
+고객이 더 많은 Google Cloud NetApp Volumes 시스템을 설정하고 승인함에 따라 자격 증명을 관리하는 방식도 바뀌었습니다.
+
+NetApp Volumes 시스템 자격 증명은 이제 Cloud Key Management 서비스나 유사한 서비스 등 Google 클라우드 백엔드에 저장되며, 새 시스템을 만들 때는 서비스 계정 가장 자격 증명이 사용됩니다.
