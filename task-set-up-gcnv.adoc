@@ -40,6 +40,9 @@ Google Cloud Console은 이 이름을 기반으로 서비스 계정 ID를 생성
 .. 역할 목록에서 * Google Cloud NetApp Volumes 관리자* 또는 *Google Cloud NetApp 뷰어* 역할을 선택합니다.
 .. *계속*을 선택하세요.
 .. 이 서비스 계정에 사칭 액세스 권한을 부여하세요: credentials-sa@wf-production-netapp.iam.gserviceaccount.com. 자세한 내용은 다음을 참조하세요. https://cloud.google.com/iam/docs/create-short-lived-credentials-direct#sa-credentials-jwt["자체 서명된 JSON 웹 토큰(JWT) 생성"^] .
++
+NetApp 이 소유한 서비스 계정은 개인 키에 접근할 필요 없이 해당 서비스 계정처럼 작동할 수 있도록 하는 단기 액세스 토큰을 요청하는 데 사용됩니다.
+
 .. 페이지 하단의 *완료*를 클릭하고 다음 단계로 넘어가세요.
 
 
