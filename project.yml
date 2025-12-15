@@ -29,13 +29,13 @@ sidebar:
     - title: Google Cloud NetApp Volumes 역할 할당
       url: "/task-add-roles.html"
     - title: 시스템 추가
-      url: "/task-create-working-env.html"
+      url: "/task-create-system.html"
   - title: Google Cloud NetApp Volumes 사용
     entries:
     - title: 볼륨 관리
       url: "/task-manage-volumes.html"
     - title: 볼륨 제거
-      url: "/task-remove-working-env.html"
+      url: "/task-remove-system.html"
   - title: 지식과 지원
     entries:
     - title: 지원 등록

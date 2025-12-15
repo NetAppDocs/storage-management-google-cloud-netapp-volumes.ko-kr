@@ -20,7 +20,7 @@ indexpage:
     - title: 볼륨 관리
       url: task-manage-volumes.html
     - title: 볼륨 제거
-      url: task-remove-working-env.html
+      url: task-remove-system.html
   - title: 블로그 및 커뮤니티
     links:
     - title: NetApp Console
