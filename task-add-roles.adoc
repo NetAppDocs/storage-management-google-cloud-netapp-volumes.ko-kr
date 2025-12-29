@@ -46,4 +46,4 @@ Google Cloud NetApp Volumes 작업을 시작하려면 NetApp Console 에서 멤�
 
 
 .다음은 무엇인가요?
-link:task-create-working-env.html["Google Cloud NetApp Volumes 시스템 추가"].
+link:task-create-system.html["Google Cloud NetApp Volumes 시스템 추가"].

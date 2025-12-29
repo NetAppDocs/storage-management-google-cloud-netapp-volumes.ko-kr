@@ -318,7 +318,6 @@
   <block id="68b5a483d6fcf76e4c38e6c4a401ef56" category="list-text">_Google Cloud NetApp 볼륨 뷰어_</block>
   <block id="75a4a42dcdb6ed59e56039807b8e36fe" category="list-text">역할 추가: 조직 내 추가 폴더나 프로젝트에 대한 액세스 권한을 제공하려면 *역할 추가*를 선택하고 다른 폴더나 프로젝트 또는 역할 범주를 지정한 다음 역할 범주와 해당 역할을 선택합니다.</block>
   <block id="a09853f10b1e18c9e2f541f7e1763305" category="list-text">*새로운 역할 추가*를 선택하세요.</block>
-  <block id="24a2cf89a7e8654a8dd82b3e847a2f3f" category="paragraph"><block ref="353eff4e723ce60125e1af61cf4ff726" category="inline-link-macro-rx"></block>.</block>
   <block id="ab1dab4c743d79632ef6d8713763e8d2" category="list-text">Google 서비스 계정 이메일 주소</block>
   <block id="53b4170efa88b9e39c22f67a2c5c13da" category="list-text">*자격 증명 적용*을 선택하여 프로젝트 이름과 지역을 검색합니다.</block>
   <block id="7de846f0f4d481f8d5514f7cd985147d" category="list-text">*프로젝트 이름*에서 Google Cloud 프로젝트 이름을 선택합니다.</block>
@@ -328,7 +327,6 @@
   <block id="202fff1a22ad6746f62f817c50162005" category="paragraph-title"><block ref="54f425ce8d89f4ed6b8a546561af5d60" category="inline-image-macro-rx" type="image"></block> <block ref="7636ea90210cd657bcc56955b4579566" category="inline-link-macro-rx"></block></block>
   <block id="aaea90d2749395beb16f5340fe5cc964" category="paragraph">NetApp Console 에서 멤버에게 올바른 역할을 할당합니다.</block>
   <block id="ca8a2087e5557e317599344687a57391" category="inline-image-macro">삼</block>
-  <block id="6d60931e1d27fdf57f2023f84b071c1f" category="paragraph-title"><block ref="05b2444faffd66d76e88602ea7dd353f" category="inline-image-macro-rx" type="image"></block> <block ref="a2c0cfbb3ea0086835b60f39a97a2a3a" category="inline-link-macro-rx"></block></block>
   <block id="119cf90c9716f71114dbe3b9e13911b6" category="list-text">사칭에 대한 액세스 권한을 부여합니다.</block>
   <block id="427af8bd46f9b056f4a0a09ce41c9a34" category="list-text">서비스 계정을 만들려면 다음을 수행하세요.</block>
   <block id="1483d48ab7fa569ffd416726e76ecf2d" category="list-text">*만들고 계속하기*를 클릭하세요.</block>
@@ -348,4 +346,6 @@
   <block id="8372655369d67acc7142b2e8d34f9af7" category="sidebar">볼륨 제거</block>
   <block id="5b20dcb4d6ead9fcf4ad79a3f32c603e" category="list-text">연결된 Google 서비스 계정 이메일 주소를 붙여넣으세요. 자세한 내용은 다음을 참조하세요.<block ref="2a10bb8ea1c6c9896523c5c7efdb9ddd" category="inline-link-macro-rx"></block> .</block>
   <block id="063d962f8b06a3e8ff542497811b0109" category="paragraph">NetApp 이 소유한 서비스 계정은 개인 키에 접근할 필요 없이 해당 서비스 계정처럼 작동할 수 있도록 하는 단기 액세스 토큰을 요청하는 데 사용됩니다.</block>
+  <block id="ef9cb6cefb83593bb2298c3273f71497" category="paragraph"><block ref="b07a2136d7ec74e37b5d674038989f9e" category="inline-link-macro-rx"></block>.</block>
+  <block id="e2b9b963de5a574643448d4341ba095d" category="paragraph-title"><block ref="05b2444faffd66d76e88602ea7dd353f" category="inline-image-macro-rx" type="image"></block> <block ref="f17c135087ba7331aa786fe747b034f4" category="inline-link-macro-rx"></block></block>
 </blocks>
