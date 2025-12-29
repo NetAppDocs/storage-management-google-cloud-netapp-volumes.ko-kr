@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar 
 permalink: task-create-system.html 
-keywords: google cloud netapp volumes, google cloud, netapp cloud volumes, create netapp cloud volumes, discover netapp cloud volumes service for gcnv, cloud volumes service subscription, discover cloud volumes service subscription, discover region, allowed clients, netapp console 
+keywords: google cloud netapp volumes, google cloud, netapp cloud volumes, create netapp cloud volumes, discover netapp cloud volumes service for gcnv, cloud volumes service subscription, discover cloud volumes service subscription, discover region, allowed clients, netapp console, gcnv 
 summary: NetApp Console 에서 Google Cloud 시스템용 Netapp Volumes를 추가하여 볼륨을 보고 관리합니다. 
 ---
 = Google Cloud NetApp Volumes 시스템 추가

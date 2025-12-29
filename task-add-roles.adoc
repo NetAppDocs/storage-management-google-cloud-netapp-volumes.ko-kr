@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar 
 permalink: task-add-roles.html 
-keywords: setup, set up, add role, requirements, permissions, google cloud netapp volumes, gcnv, bluexp. netapp console 
+keywords: setup, set up, add role, requirements, permissions, google cloud netapp volumes, gcnv, bluexp. netapp console,assign 
 summary: NetApp Console 멤버에게 올바른 역할이 할당되어야 합니다. 
 ---
 = Google Cloud NetApp Volumes 역할 할당

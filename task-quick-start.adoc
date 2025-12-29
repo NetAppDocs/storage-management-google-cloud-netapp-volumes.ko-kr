@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar 
 permalink: task-quick-start.html 
-keywords: set up google cloud netapp volumes, quick start 
+keywords: set up google cloud netapp volumes, quick start,system 
 summary: Google Cloud를 설정한 다음 시스템을 만들어 Google Cloud NetApp Volumes 시작하세요. 
 ---
 = 시작하기 워크플로

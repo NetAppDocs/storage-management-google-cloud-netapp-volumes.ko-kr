@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar 
 permalink: task-remove-system.html 
-keywords: remove working environment, delete working environment, remove system, delete system, remove google cloud netapp volumes, remove, delete 
+keywords: remove working environment, delete working environment, remove system, delete system, remove google cloud netapp volumes, remove, delete, delete google cloud netapp volumes 
 summary: NetApp Console 에서 Google Cloud NetApp Volumes for Google Cloud 구독과 모든 기존 볼륨을 제거할 수 있습니다.  이 작업을 수행하면 NetApp Console 에서 Google Cloud NetApp Volumes 제거됩니다.  Google Cloud NetApp Volumes 계정이나 볼륨은 삭제되지 않습니다.  언제든지 NetApp Console 에 Google Cloud NetApp Volumes 다시 추가할 수 있습니다. 
 ---
 = NetApp Console 에서 Google Cloud NetApp Volumes 제거
