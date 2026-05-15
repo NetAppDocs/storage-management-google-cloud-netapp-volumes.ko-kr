@@ -89,7 +89,7 @@ NetApp 처음 사용하시고 NSS 계정이 없으신 경우 아래의 각 단�
 . 콘솔의 오른쪽 상단에서 도움말 아이콘을 선택하고 *지원*을 선택하세요.
 . 지원 등록 페이지에서 계정 ID 일련 번호를 찾으세요.
 +
-image:https://raw.githubusercontent.com/NetAppDocs/bluexp-family/main/media/screenshot-serial-number.png["지원이 첫 번째 옵션으로 나열된 도움말 메뉴의 스크린샷"]
+image:https://raw.githubusercontent.com/NetAppDocs/console-family/main/media/screenshot-serial-number.png["지원이 첫 번째 옵션으로 나열된 도움말 메뉴의 스크린샷"]
 
 . 로 이동 https://register.netapp.com["NetApp 지원 등록 사이트"^] *저는 등록된 NetApp 고객이 아닙니다*를 선택하세요.
 . 필수 입력란(빨간색 별표가 있는 항목)을 작성해 주세요.
@@ -143,7 +143,7 @@ NSS 자격 증명을 NetApp Console 계정과 연결하는 것은 콘솔 사용�
 .단계
 . 콘솔의 오른쪽 상단에서 도움말 아이콘을 선택하고 *지원*을 선택하세요.
 +
-image:https://raw.githubusercontent.com/NetAppDocs/bluexp-family/main/media/screenshot-help-support.png["지원이 첫 번째 옵션으로 나열된 도움말 메뉴의 스크린샷"]
+image:https://raw.githubusercontent.com/NetAppDocs/console-family/main/media/screenshot-help-support.png["지원이 첫 번째 옵션으로 나열된 도움말 메뉴의 스크린샷"]
 
 . *NSS 관리 > NSS 계정 추가*를 선택하세요.
 . 메시지가 표시되면 *계속*을 선택하여 Microsoft 로그인 페이지로 이동합니다.
@@ -168,9 +168,9 @@ NetApp 지원 및 라이선싱에 특화된 인증 서비스를 위한 ID 공급
 
 ** 로그인에 성공하면 NetApp NSS 사용자 이름을 저장합니다.
 +
-이는 귀하의 이메일에 매핑되는 시스템 생성 ID입니다. *NSS 관리* 페이지에서 이메일을 표시할 수 있습니다.image:https://raw.githubusercontent.com/NetAppDocs/bluexp-family/main/media/icon-nss-menu.png["세 개의 수평 점으로 구성된 아이콘"] 메뉴.
+이는 시스템에서 생성된 ID로, 사용자의 이메일 주소와 연결됩니다. *NSS 관리* 페이지의 image:https://raw.githubusercontent.com/NetAppDocs/console-family/main/media/icon-nss-menu.png["세 개의 수평 점으로 구성된 아이콘"] 메뉴에서 사용자의 이메일 주소를 확인할 수 있습니다.
 
-** 로그인 자격 증명 토큰을 새로 고쳐야 하는 경우 *자격 증명 업데이트* 옵션도 있습니다.image:https://raw.githubusercontent.com/NetAppDocs/bluexp-family/main/media/icon-nss-menu.png["세 개의 수평 점으로 구성된 아이콘"] 메뉴.
+** 로그인 자격 증명 토큰을 갱신해야 하는 경우 image:https://raw.githubusercontent.com/NetAppDocs/console-family/main/media/icon-nss-menu.png["세 개의 수평 점으로 구성된 아이콘"] 메뉴에 *자격 증명 업데이트* 옵션이 있습니다.
 +
 이 옵션을 사용하면 다시 로그인하라는 메시지가 표시됩니다. 이 계정의 토큰은 90일 후에 만료됩니다. 이에 대한 알림이 게시됩니다.
 
