@@ -4,6 +4,7 @@
 
 
 
+[[google-cloud-platform-credentials-changes]]
 === Google Cloud Platform 자격 증명 변경
 
 고객이 더 많은 Google Cloud NetApp Volumes 시스템을 설정하고 승인함에 따라 자격 증명을 관리하는 방식도 바뀌었습니다.

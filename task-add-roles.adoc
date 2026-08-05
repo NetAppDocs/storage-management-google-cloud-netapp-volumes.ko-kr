@@ -18,6 +18,7 @@ Google Cloud NetApp Volumes 작업을 시작하려면 NetApp Console 에서 멤�
 
 
 
+[[assign-roles-to-the-service-account-member]]
 == 서비스 계정 멤버에게 역할 할당
 
 . 로그인하세요 https://docs.netapp.com/us-en/console-setup-admin/task-logging-in.html["NetApp Console"^] .
