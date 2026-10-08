@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar 
 permalink: task-set-up-gcnv.html 
-keywords: setup, set up, api, service account, requirements, permissions, google cloud netapp volumes, gcnv, bluexp, netapp console 
+keywords: setup, set up, api, service account, requirements, permissions, google cloud netapp volumes, gcnv, netapp console 
 summary: NetApp Console Google Cloud NetApp Volumes API에 액세스해야 하며 Google Cloud 서비스 계정을 통해 적절한 권한이 필요합니다. 
 ---
 = Google Cloud NetApp Volumes 설정

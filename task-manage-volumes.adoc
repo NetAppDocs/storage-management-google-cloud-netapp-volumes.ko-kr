@@ -4,7 +4,7 @@ permalink: task-manage-volumes.html
 keywords: google cloud netapp volumes, view volumes 
 summary: 시스템을 설정한 후 Google Cloud NetApp 볼륨을 볼 수 있습니다. 
 ---
-= 기존 볼륨 관리
+= Google Cloud NetApp Volumes에서 볼륨 관리
 :hardbreaks:
 :allow-uri-read: 
 :nofooter: 

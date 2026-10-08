@@ -22,7 +22,7 @@ sidebar:
     entries:
     - title: Google Cloud NetApp Volumes 에 대해 알아보세요
       url: "/concept-gcnv.html"
-    - title: 시작하기 워크플로
+    - title: Google Cloud NetApp Volumes 빠른 시작
       url: "/task-quick-start.html"
     - title: Google Cloud NetApp Volumes 설정
       url: "/task-set-up-gcnv.html"

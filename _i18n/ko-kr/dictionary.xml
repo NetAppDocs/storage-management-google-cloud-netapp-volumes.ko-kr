@@ -61,8 +61,6 @@
   <block id="163a3c387d8c61dece62282d1f9e796f" category="paragraph">이 구독에 대한 클라우드 볼륨이 시스템에 표시됩니다.</block>
   <block id="b7c67692dc38dca98edc62b4b29f83d8" category="admonition">여러 Google Cloud 프로젝트에 구독과 볼륨이 있는 경우 각 프로젝트에 대해 이 작업을 수행해야 합니다.</block>
   <block id="135b308ed83c53f1516b7c754566d1c4" category="paragraph-title">시작하기 전에</block>
-  <block id="107a414e0bf62dc36bb6bbde7bcd19de" category="paragraph">각 프로젝트에 대한 구독을 추가할 때 다음 정보를 준비해야 합니다.</block>
-  <block id="7adea0d9c77aabccd8bb67ae0a832d59" category="list-text">프로젝트 이름</block>
   <block id="f3a29486bed19a90f2da6d007818b427" category="list-title">단계</block>
   <block id="68ab6a6d7a40667d53edebc13dbf3f3a" category="list-text">NetApp Console 메뉴에서 *스토리지*를 선택한 다음 *관리*를 선택합니다.</block>
   <block id="68bcc46b8018dd326b42dec2f75f6453" category="list-text">시스템 페이지에서 *시스템 추가*를 선택하고 *Google Cloud Platform*을 선택합니다.</block>
@@ -152,7 +150,6 @@
   <block id="8e6b52a532a4fbbfc98dca3ebfa5f1e6" category="list-text">*사례 메모 업데이트*: 문제에 대한 추가 세부 정보를 제공하거나 *파일 업로드*를 선택하여 최대 5개의 파일을 첨부하세요.</block>
   <block id="bb6d5d351525342dd6b3cf4d15b6f298" category="list-text">*사건 종결*: 사건을 종결하는 이유를 자세히 입력하고 *사건 종결*을 선택하세요.</block>
   <block id="f4688d95f28052e3af5b9387c898c5bf" category="summary">시스템을 설정한 후 Google Cloud NetApp 볼륨을 볼 수 있습니다.</block>
-  <block id="9038e7cfcfe9bb9df9afd31371070be8" category="doc">기존 볼륨 관리</block>
   <block id="182a9bef86de098b538c3c82dd415b3d" category="paragraph">기존 볼륨과 볼륨에서 수행한 모든 작업을 볼 수 있습니다.</block>
   <block id="a5999c1155de9850d34ba60075be7171" category="inline-link">모든 서비스에 대한 NetApp Console 액세스 역할에 대해 알아보세요.</block>
   <block id="6b3c1595afc04f7a21a3249b677c0c9b" category="section-title">볼륨 보기</block>
@@ -165,16 +162,10 @@
   <block id="042f0d2136855bcd9717a113dbfba91f" category="paragraph">볼륨에서 수행된 모든 작업을 타임라인에서 볼 수 있습니다.</block>
   <block id="e1e12bbb649f3bf69b43ac6961ea915b" category="list-text">오른쪽 상단에서 *설정*을 선택한 다음 *타임라인*을 선택합니다.</block>
   <block id="4e86398dd959a1b1f62fff6ab6207875" category="paragraph">*감사 로그* 테이블에서는 볼륨에서 수행된 모든 작업을 볼 수 있습니다.</block>
-  <block id="7c9227c0b3486490a4814fe5ca042183" category="summary">Google Cloud를 설정한 다음 시스템을 만들어 Google Cloud NetApp Volumes 시작하세요.</block>
-  <block id="65ce4dce26160be29539699c6623e379" category="doc">시작하기 워크플로</block>
-  <block id="a213ab2be24278e031afba73382d0cf1" category="paragraph">Google Cloud를 설정한 다음 시스템을 만들어 Google Cloud NetApp Volumes 시작하세요.</block>
   <block id="06c2cea18679d64399783748fa367bdd" category="inline-image-macro">하나</block>
   <block id="77cb49dd0e189cd2b264b8acf283654d" category="inline-link-macro">Google Cloud NetApp Volumes 설정</block>
-  <block id="aabf26ebaf076d5d9a7111d4e0bc4cae" category="paragraph-title"><block ref="58f667aaf05f87159670e12bd9bc076b" category="inline-image-macro-rx" type="image"></block> <block ref="eea1a4cfc6828b367997af0d6bacca69" category="inline-link-macro-rx"></block></block>
-  <block id="91b07957ce4b7cb970c3aaa153fddf0c" category="paragraph">Google에서 서비스 계정을 만듭니다.</block>
   <block id="aada29daee1d64ed0fe907043855cb7e" category="inline-image-macro">둘</block>
   <block id="770e6e1d37ec8e564116ac215a622e66" category="inline-link-macro">시스템 추가</block>
-  <block id="05c5a25d7a79c44ec89bb64914a00a71" category="paragraph">NetApp Console 에서 *시스템 추가*를 클릭한 다음 *Google Cloud Platform*을 클릭하고 * Google Cloud NetApp Volumes*를 클릭한 다음 *검색*을 클릭합니다.  서비스 계정과 Google Cloud 프로젝트에 대한 세부 정보를 제공하세요.</block>
   <block id="fc75bc39ba620b6d4598432bb5ae020b" category="summary">NetApp Console 에서 Google Cloud NetApp Volumes for Google Cloud 구독과 모든 기존 볼륨을 제거할 수 있습니다.  이 작업을 수행하면 NetApp Console 에서 Google Cloud NetApp Volumes 제거됩니다.  Google Cloud NetApp Volumes 계정이나 볼륨은 삭제되지 않습니다.  언제든지 NetApp Console 에 Google Cloud NetApp Volumes 다시 추가할 수 있습니다.</block>
   <block id="334006e84c34586f1513f28c3d9b223d" category="doc">NetApp Console 에서 Google Cloud NetApp Volumes 제거</block>
   <block id="9e1c6e7951ed61fcf04e7477847de4aa" category="paragraph">NetApp Console 에서 Google Cloud NetApp Volumes 구독과 모든 기존 볼륨을 제거할 수 있습니다.  볼륨은 삭제되지 않고 NetApp Console 내의 모든 프로젝트에서 제거되며 나중에 다시 검색할 수 있습니다.</block>
@@ -267,12 +258,10 @@
   <block id="1dcb63fd55c4d22e87cb32275b8cc808" category="inline-image-macro">세 개의 수평 점으로 구성된 아이콘</block>
   <block id="b14d512a3c64fb5df16f6721b0603c63" category="paragraph">이 옵션을 사용하면 다시 로그인하라는 메시지가 표시됩니다. 이 계정의 토큰은 90일 후에 만료됩니다. 이에 대한 알림이 게시됩니다.</block>
   <block id="a970e07804599229aa5234eab66f5ddf" category="summary">NetApp Console 에서 Google Cloud NetApp Volumes 지원의 새로운 기능을 알아보세요.</block>
-  <block id="490414e0366b091220802d406e52c076" category="doc">새로운 소식</block>
   <block id="a41dd7aa7d921f9f0881a705d3679e6c" category="section-title">2025년 10월 6일</block>
   <block id="6bf86021a24fd009a31d432250a9ad20" category="section-title">2025년 7월 21일</block>
   <block id="cf84d451110e9b07533e6d8460d4b4e1" category="sidebar">Google Cloud NetApp Volumes 사용하면 기업은 클라우드에 맞게 리팩토링할 필요 없이 성능 집약적이고 지연 시간에 민감한 핵심 비즈니스 핵심 애플리케이션을 Google로 마이그레이션하고 실행할 수 있습니다.  이 문서에서는 NetApp Console 사용하여 Google Cloud NetApp Volumes 설정하고 관리하는 방법을 설명합니다.</block>
   <block id="be11c74c1dd7f307bb80183a90dc2067" category="sidebar">시작하기</block>
-  <block id="06ad314b340900d226b1196e1fe289e9" category="sidebar">빠른 시작</block>
   <block id="11fc1a6248b661c1127bde02baf33747" category="sidebar">Google Cloud NetApp Volumes 사용</block>
   <block id="e2439a8512b353f75391ba9c346bc84d" category="sidebar">볼륨 관리</block>
   <block id="813011e2103649bb71f124adedcc10ea" category="sidebar">블로그 및 커뮤니티</block>
@@ -282,7 +271,6 @@
   <block id="0adc03eac86772ad2c75c8f140be417e" category="sidebar">지식과 지원</block>
   <block id="913de1bf08a6316fa527cd3eea7e91ef" category="list-text">공유 프로젝트에서 IAM 역할을 부여합니다.</block>
   <block id="3c031b939f6ec312ee601d021e7a6644" category="inline-link">NetApp Console</block>
-  <block id="32b6c123fa99d96b6a9c161ccb30c98d" category="list-text">*관리*를 선택한 다음 *ID 및 액세스*를 선택합니다.</block>
   <block id="b23792ea5534855a59329a6f9910a2bb" category="section-title">공유 VPC</block>
   <block id="d4f2a874cc586f639aad0321d236f3f1" category="list-text">_IAM 페이지_에서 프로젝트 드롭다운 메뉴에서 공유 VPC 호스트 프로젝트를 선택합니다.</block>
   <block id="5080561aad5ebf08cf55792d34a54478" category="list-text">*주체 추가*를 클릭합니다.</block>
@@ -298,7 +286,6 @@
   <block id="057361cf161ae80b60b9e7255a11be5c" category="summary">NetApp Console 멤버에게 올바른 역할이 할당되어야 합니다.</block>
   <block id="243d7594511b843c804f0bc07ac129b2" category="doc">Google Cloud NetApp Volumes 역할 할당</block>
   <block id="75ff95ef617b58219e71a388f1b5e45e" category="paragraph">Google Cloud NetApp Volumes 작업을 시작하려면 NetApp Console 에서 멤버에게 올바른 역할을 할당해야 합니다. 자세한 내용은 다음을 참조하세요.<block ref="e5d24b6c28284fa38e3f4f0358d9e595" category="inline-link-macro-rx"></block> .</block>
-  <block id="a3aec62d81b29c91ae211058e69a0d59" category="section-title">서비스 계정 멤버에게 역할 할당</block>
   <block id="74c620fd7a8a7d5d204db420599b44b7" category="list-text">로그인하세요<block ref="9c94c7dd8d22c14ad85dc4b22da4f94b" category="inline-link-rx"></block> .</block>
   <block id="e3b7f8faaf6d4baf5612c47ee10923ae" category="list-text">작업 메뉴를 선택하세요<block ref="8891ca04a345a35bd7da25d57718d9b7" category="inline-image-macro-rx" type="image"></block> 역할을 할당하려는 구성원 옆에 있는 *역할 추가*를 선택합니다.</block>
   <block id="5f4f2140800f25dcab7691933bfbdbdb" category="list-text">역할을 추가하려면 대화 상자의 단계를 완료하세요.</block>
@@ -312,13 +299,8 @@
   <block id="68b5a483d6fcf76e4c38e6c4a401ef56" category="list-text">_Google Cloud NetApp 볼륨 뷰어_</block>
   <block id="75a4a42dcdb6ed59e56039807b8e36fe" category="list-text">역할 추가: 조직 내 추가 폴더나 프로젝트에 대한 액세스 권한을 제공하려면 *역할 추가*를 선택하고 다른 폴더나 프로젝트 또는 역할 범주를 지정한 다음 역할 범주와 해당 역할을 선택합니다.</block>
   <block id="a09853f10b1e18c9e2f541f7e1763305" category="list-text">*새로운 역할 추가*를 선택하세요.</block>
-  <block id="ab1dab4c743d79632ef6d8713763e8d2" category="list-text">Google 서비스 계정 이메일 주소</block>
-  <block id="53b4170efa88b9e39c22f67a2c5c13da" category="list-text">*자격 증명 적용*을 선택하여 프로젝트 이름과 지역을 검색합니다.</block>
-  <block id="7de846f0f4d481f8d5514f7cd985147d" category="list-text">*프로젝트 이름*에서 Google Cloud 프로젝트 이름을 선택합니다.</block>
-  <block id="035a4567c3372192964d63db5f9bdd6e" category="list-text">*지역*에서 시스템을 만들 지역을 선택합니다. 해당 지역은 Google Cloud NetApp Volumes 에 대해 지원되는 지역 중 하나여야 합니다.</block>
   <block id="880893c2458d9a19b9c42bde3432ab1c" category="paragraph">*필수 NetApp Console 역할* Google Cloud NetApp Volumes 관리자 또는 Google Cloud NetApp Volumes 뷰어 역할.<block ref="8d054a08e0e901ba9c326f172eb3627b" category="inline-link-rx"></block> .</block>
   <block id="c14bbe70b91bf5d6b061027d2a7d5c35" category="inline-link-macro">역할 할당</block>
-  <block id="202fff1a22ad6746f62f817c50162005" category="paragraph-title"><block ref="54f425ce8d89f4ed6b8a546561af5d60" category="inline-image-macro-rx" type="image"></block> <block ref="7636ea90210cd657bcc56955b4579566" category="inline-link-macro-rx"></block></block>
   <block id="aaea90d2749395beb16f5340fe5cc964" category="paragraph">NetApp Console 에서 멤버에게 올바른 역할을 할당합니다.</block>
   <block id="ca8a2087e5557e317599344687a57391" category="inline-image-macro">삼</block>
   <block id="119cf90c9716f71114dbe3b9e13911b6" category="list-text">사칭에 대한 액세스 권한을 부여합니다.</block>
@@ -337,7 +319,6 @@
   <block id="8a5b2584efd2f1954d10a5072e5491dd" category="paragraph"><block ref="61e83af22a007916f84f7c17f5833a9d" category="inline-link-macro-rx"></block>.</block>
   <block id="815e75619b370a1b845eccec6979ed74" category="section-title">2025년 11월 27일</block>
   <block id="8372655369d67acc7142b2e8d34f9af7" category="sidebar">볼륨 제거</block>
-  <block id="5b20dcb4d6ead9fcf4ad79a3f32c603e" category="list-text">연결된 Google 서비스 계정 이메일 주소를 붙여넣으세요. 자세한 내용은 다음을 참조하세요.<block ref="2a10bb8ea1c6c9896523c5c7efdb9ddd" category="inline-link-macro-rx"></block> .</block>
   <block id="063d962f8b06a3e8ff542497811b0109" category="paragraph">NetApp 이 소유한 서비스 계정은 개인 키에 접근할 필요 없이 해당 서비스 계정처럼 작동할 수 있도록 하는 단기 액세스 토큰을 요청하는 데 사용됩니다.</block>
   <block id="ef9cb6cefb83593bb2298c3273f71497" category="paragraph"><block ref="b07a2136d7ec74e37b5d674038989f9e" category="inline-link-macro-rx"></block>.</block>
   <block id="e2b9b963de5a574643448d4341ba095d" category="paragraph-title"><block ref="05b2444faffd66d76e88602ea7dd353f" category="inline-image-macro-rx" type="image"></block> <block ref="f17c135087ba7331aa786fe747b034f4" category="inline-link-macro-rx"></block></block>
@@ -352,7 +333,27 @@
   <block id="1d593c3f7480ada9580d93cd753c3f93" category="paragraph">이는 시스템에서 생성된 ID로, 사용자의 이메일 주소와 연결됩니다. *NSS 관리* 페이지의 <block ref="5444f6f0c3983523c8933a1864b2b390" category="inline-image-macro-rx" type="image"></block> 메뉴에서 사용자의 이메일 주소를 확인할 수 있습니다.</block>
   <block id="872eaae7deb6035c20f9bfe6deefd03d" category="list-text">로그인 자격 증명 토큰을 갱신해야 하는 경우 <block ref="5444f6f0c3983523c8933a1864b2b390" category="inline-image-macro-rx" type="image"></block> 메뉴에 *자격 증명 업데이트* 옵션이 있습니다.</block>
   <block id="2b5b357227eed641a3bd86d123eb3ac6" category="admonition">Google Cloud 프로젝트 권한 변경 사항이 적용되는 데 몇 분 정도 소요될 수 있습니다.</block>
-  <block id="06a757f4492cc64438eda3ca3eb111b2" category="list-text">역할 목록에서 *Google Cloud NetApp Volumes 관리자* 또는 *Google Cloud NetApp Volumes 뷰어* 역할을 선택합니다.</block>
-  <block id="34f0896664ad94ea24b488080bc90944" category="admonition">스테이징 환경의 경우 프로덕션 서비스 계정 대신<block ref="2bebe1838cee8677133953ee797f4d0a" prefix=" " category="inline-code"></block>을 사용하십시오. 위 명령에서<block ref="e41d617895cb15aef8465d2dcb67fde1" prefix=" " category="inline-code"></block> 매개변수 값을<block ref="6b161ca4f09b2b5faab1957b52ed2c19" prefix=" " category="inline-code"></block>로 바꾸십시오.</block>
   <block id="e2bb3fd2b13dd9ef09db422aee6f7e01" category="paragraph">서비스 계정을 사용할 각 추가 Google Cloud 프로젝트에서 다음을 수행하십시오.</block>
+  <block id="d0773a774fe8f762b39c1f8a148c2a3a" category="doc">Google Cloud NetApp Volumes 관련 법적 고지</block>
+  <block id="3aac6c469e70a50a1714acf3ff8f079c" category="section-title">NetApp Console 사용자에게 역할을 할당합니다</block>
+  <block id="8d0a386ee9b7437c6f73300ff44155b6" category="list-text">*관리*, *ID 및 액세스*, *멤버*를 차례로 선택합니다.</block>
+  <block id="328e1cedf07f1eaf16a4995b8d857915" category="paragraph">각 프로젝트에 시스템을 추가하기 전에 다음 사항을 확인하십시오:</block>
+  <block id="c0ccabb33748a5b4a25350659e77caa9" category="list-text">Google Cloud 서비스 계정이 설정되었으며 해당 자격 증명은 NetApp Console에서 확인할 수 있습니다. 자세한 내용은 <block ref="eea1a4cfc6828b367997af0d6bacca69" category="inline-link-macro-rx"></block>를 참조하십시오.</block>
+  <block id="1a33afae28adbeab69b0cd3f7175ba68" category="list-text">NetApp Console에서 Google Cloud NetApp Volumes 관리자 또는 뷰어 역할을 보유하고 있습니다. 자세한 내용은 <block ref="61e83af22a007916f84f7c17f5833a9d" category="inline-link-macro-rx"></block>을(를) 참조하십시오.</block>
+  <block id="2c5ae7f92d40dda0ab09697532d3f685" category="list-text">*자격 증명*에서 사용할 Google Cloud NetApp Volumes 자격 증명을 선택합니다.</block>
+  <block id="f8bd42d5c2205400b0ed783684a238e6" category="paragraph">자격 증명이 표시되지 않으면 계속 진행하기 전에 Google Cloud NetApp Volumes 자격 증명을 추가하십시오. 자격 증명을 사용할 수 있을 때까지 프로젝트 및 지역 선택이 불가능합니다.</block>
+  <block id="4c9d68cfaa8dcf5a80fa0ef73f532e82" category="list-text">*지역*에서 Google Cloud NetApp Volumes에 대해 지원되는 지역을 선택하십시오.</block>
+  <block id="05c36d4b985444ac8842d41c24eb035c" category="doc">Google Cloud NetApp Volumes 관련 도움말을 받으십시오.</block>
+  <block id="f301f88ce6b2c36d4104818d7fda48d4" category="doc">Google Cloud NetApp Volumes에서 볼륨 관리</block>
+  <block id="9a8fccbd850aa8643a89826b7a8fb208" category="summary">NetApp Console 역할을 할당하고, 자격 증명을 추가하고, 시스템을 검색하여 Google Cloud NetApp Volumes를 시작하십시오.</block>
+  <block id="b0aa4fa8dc6511816bb58aa5617d1ee5" category="doc">Google Cloud NetApp Volumes 빠른 시작</block>
+  <block id="2999755d1730c0395dc6d69c2e4175da" category="paragraph">NetApp Console 역할을 할당하고, 자격 증명을 추가하고, 시스템을 검색하여 Google Cloud NetApp Volumes를 시작하십시오.</block>
+  <block id="6827e95623228a9ea63986efaaca0b88" category="paragraph-title"><block ref="58f667aaf05f87159670e12bd9bc076b" category="inline-image-macro-rx" type="image"></block> <block ref="7636ea90210cd657bcc56955b4579566" category="inline-link-macro-rx"></block></block>
+  <block id="0f391d5482822722d86585c248878517" category="inline-link-macro">자격 증명 추가</block>
+  <block id="6f2763cd3e02476cb119778797369b0f" category="paragraph-title"><block ref="54f425ce8d89f4ed6b8a546561af5d60" category="inline-image-macro-rx" type="image"></block> <block ref="2fd3a5be9d6b1b1b584f1ac1aa0e2f8e" category="inline-link-macro-rx"></block></block>
+  <block id="77d5ddb0fb660aaf755b6ed1f614b0c5" category="paragraph">NetApp Console에서 Google Cloud NetApp Volumes 자격 증명을 추가합니다.</block>
+  <block id="3d5dcea171c7a77f7cb0efa8c9a0cd1a" category="paragraph">NetApp Console에서 자격 증명, Google Cloud 프로젝트 및 지원되는 지역을 사용하여 시스템을 검색합니다.</block>
+  <block id="9089795bfd84428b4b5acba64940f17f" category="list-text">역할 목록에서 *Google Cloud NetApp Volumes 관리자* 또는 *Google Cloud NetApp Volumes 뷰어* 역할을 선택합니다.</block>
+  <block id="e7483077a70b9fb68d4dedbb743eb469" category="doc">Google Cloud NetApp Volumes 관련 지원을 받으려면 등록하세요</block>
+  <block id="807038cd9a74e3f2645f02e67eebf76a" category="doc">Google Cloud NetApp Volumes의 새로운 기능은 무엇인가요?</block>
 </blocks>
